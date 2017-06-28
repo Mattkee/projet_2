@@ -20,3 +20,5 @@ et voilà.
 et non c’est pas fini après j’ai poussé ce travail sur GitHub en suivant les étapes apprises dans le cours.
 
 et voilà c’est fini.
+
+ps : désolé pour la faute d'orthographe énorme sur la déscription de l'avant dernier commit.
